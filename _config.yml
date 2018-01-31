@@ -1,2 +1,3 @@
 name: Luciano D'Amico Rebord
 markdown: kramdon
+permalink: /blog/:year/:month/:day/:title
