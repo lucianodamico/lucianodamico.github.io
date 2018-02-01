@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luciano D'Amico Trbord, Launches sites"
+title: "Luciano D'Amico Rebord, Launches sites"
 date: 2018-01-31
 ---
 
